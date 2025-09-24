@@ -26,3 +26,5 @@ For help, contact the maintainer via email: shabahang.j@gmail.com
 Maintained by shabahang.j
 
 Contributions are welcome via pull requests on GitHub.
+
+Donate : https://nowpayments.io/donation/shabahang.j
